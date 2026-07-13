@@ -1,6 +1,5 @@
 ## Olá, eu sou Jonas Estanislau
 - :office_worker: Atualmente estou trabalhando com redes de computadores
-- :desktop_computer::computer_mouse:  Estou estudando front-end
 
 <div>
   <a href="https://github.com/jonasestanislau">
